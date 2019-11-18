@@ -3,7 +3,7 @@
     <title>Nikolyst</title>
     <link href="https://nikolyst.github.io/feed.xml" rel="self" />
     <link href="https://nikolyst.github.io" />
-    <updated>2019-11-17T20:47:25-07:00</updated>
+    <updated>2019-11-17T21:33:39-07:00</updated>
     <author>
         <name>Nikolyst</name>
     </author>
@@ -17,16 +17,20 @@
         <link href="https://nikolyst.github.io/new-creative-dumping-ground.html"/>
         <id>https://nikolyst.github.io/new-creative-dumping-ground.html</id>
 
-        <updated>2019-11-17T18:58:23-07:00</updated>
+        <updated>2019-11-17T21:31:42-07:00</updated>
             <summary>
                 <![CDATA[
-                    Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are. First thing I'll be uploading is my entry to the NaNoTwiMo jam. Check back closer to&hellip;
+                        <img src="https://nikolyst.github.io/media/posts/1/50x30_sides.png" alt="" />
+                    Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are. First thing I'll be uploading is my entry to the NaNoTwiMo jam. Here's a mockup screenshot&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://nikolyst.github.io/media/posts/1/50x30_sides.png" alt="" />
                 <p>Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are.</p>
-<p>First thing I'll be uploading is my entry to the <a href="https://itch.io/jam/nanotwimo-make-a-twine-game-in-november" target="_blank" rel="nofollow noopener noreferrer">NaNoTwiMo</a> jam. Check back closer to December!</p>
+<p>First thing I'll be uploading is my entry to the <a href="https://itch.io/jam/nanotwimo-make-a-twine-game-in-november" target="_blank" rel="nofollow noopener noreferrer">NaNoTwiMo</a> jam. Here's a mockup screenshot to tide you over.</p>
+<p><img class="post__image--center" src="https://nikolyst.github.io/media/posts/1/50x30_sides.png" alt="" width="800" height="480"></p>
+<p>Check back closer to December!</p>
             ]]>
         </content>
     </entry>
