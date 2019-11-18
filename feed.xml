@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Nikolyst</title>
+    <link href="https://nikolyst.github.io/feed.xml" rel="self" />
+    <link href="https://nikolyst.github.io" />
+    <updated>2019-11-17T20:47:25-07:00</updated>
+    <author>
+        <name>Nikolyst</name>
+    </author>
+    <id>https://nikolyst.github.io</id>
+
+    <entry>
+        <title>New creative dumping ground</title>
+        <author>
+            <name>Nikolyst</name>
+        </author>
+        <link href="https://nikolyst.github.io/new-creative-dumping-ground.html"/>
+        <id>https://nikolyst.github.io/new-creative-dumping-ground.html</id>
+
+        <updated>2019-11-17T18:58:23-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are. First thing I'll be uploading is my entry to the NaNoTwiMo jam. Check back closer to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are.</p>
+<p>First thing I'll be uploading is my entry to the <a href="https://itch.io/jam/nanotwimo-make-a-twine-game-in-november" target="_blank" rel="nofollow noopener noreferrer">NaNoTwiMo</a> jam. Check back closer to December!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
