@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Nikolyst",
     "description": "",
-    "home_page_url": "https://nikolyst.github.io",
-    "feed_url": "https://nikolyst.github.io/feed.json",
+    "home_page_url": "https://nikolyst.com",
+    "feed_url": "https://nikolyst.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Nikolyst"
     },
     "items": [
         {
-            "id": "https://nikolyst.github.io/patreon-launch-announcement.html",
-            "url": "https://nikolyst.github.io/patreon-launch-announcement.html",
+            "id": "https://nikolyst.com/patreon-launch-announcement.html",
+            "url": "https://nikolyst.com/patreon-launch-announcement.html",
             "title": "Patreon launch announcement",
             "summary": "After pondering this for way too many months now, I finally decided I'm launching my Patreon on Sunday, December 15th. With the variety of things I do and the stress that I experience when I end up rushing something out that feels unfinished, Patreon seems&hellip;",
-            "content_html": "<p>After pondering this for way too many months now, I finally decided I'm launching my Patreon on Sunday, December 15th. With the variety of things I do and the stress that I experience when I end up rushing something out that feels unfinished, Patreon seems like a breath of fresh air. Do I have specific monetary goals here? Only to slowly start making money from my creative processes. <strong>I absolutely LOVE my current day job and I currently have zero plans to leave it. </strong>That said, I'm currently living with my parents with no ability to pay actual rent and no emergency funds. I gotta change that. Pateron will hopefully help.</p>\n<p>What on earth am I going to share through Patreon? Anything! Everything! Nothing in particular! Whatever creative stuff I do is fair game: music, sounds, games, circuit bending, custom electronics, glitch art, physical art, etc. I haven't decided what all the tiers and rewards will look like but the lowest tier will be $1 per month. Every little bit will help!</p>\n<p>Keep an eye on my social media to get the link as soon as I go live. Whatever you like: <a href=\"https://nikolyst.github.io\">this blog</a>, Facebook (personal profile only for now), <a href=\"https://twitter.com/nikolyst\" target=\"_blank\" rel=\"noopener noreferrer\">Twitter</a>, or <a href=\"https://www.instagram.com/nikolystic/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a>.</p>",
+            "content_html": "<p>After pondering this for way too many months now, I finally decided I'm launching my Patreon on Sunday, December 15th. With the variety of things I do and the stress that I experience when I end up rushing something out that feels unfinished, Patreon seems like a breath of fresh air. Do I have specific monetary goals here? Only to slowly start making money from my creative processes. <strong>I absolutely LOVE my current day job and I currently have zero plans to leave it. </strong>That said, I'm currently living with my parents with no ability to pay actual rent and no emergency funds. I gotta change that. Pateron will hopefully help.</p>\n<p>What on earth am I going to share through Patreon? Anything! Everything! Nothing in particular! Whatever creative stuff I do is fair game: music, sounds, games, circuit bending, custom electronics, glitch art, physical art, etc. I haven't decided what all the tiers and rewards will look like but the lowest tier will be $1 per month. Every little bit will help!</p>\n<p>Keep an eye on my social media to get the link as soon as I go live. Whatever you like: <a href=\"https://nikolyst.com\">this blog</a>, Facebook (personal profile only for now), <a href=\"https://twitter.com/nikolyst\" target=\"_blank\" rel=\"noopener noreferrer\">Twitter</a>, or <a href=\"https://www.instagram.com/nikolystic/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a>.</p>",
             "author": {
                 "name": "Nikolyst"
             },
@@ -24,12 +24,12 @@
             "date_modified": "2019-12-01T00:26:52-07:00"
         },
         {
-            "id": "https://nikolyst.github.io/new-creative-dumping-ground.html",
-            "url": "https://nikolyst.github.io/new-creative-dumping-ground.html",
+            "id": "https://nikolyst.com/new-creative-dumping-ground.html",
+            "url": "https://nikolyst.com/new-creative-dumping-ground.html",
             "title": "New creative dumping ground",
             "summary": "Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are. First thing I'll be uploading is my entry to the NaNoTwiMo jam. Here's a mockup screenshot&hellip;",
-            "content_html": "<p>Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are.</p>\n<p>First thing I'll be uploading is my entry to the <a href=\"https://itch.io/jam/nanotwimo-make-a-twine-game-in-november\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">NaNoTwiMo</a> jam. Here's a mockup screenshot to tide you over.</p>\n<p><img class=\"post__image--center\" src=\"https://nikolyst.github.io/media/posts/1/50x30_sides.png\" alt=\"\" width=\"800\" height=\"480\"></p>\n<p>Check back closer to December!</p>",
-            "image": "https://nikolyst.github.io/media/posts/1/50x30_sides.png",
+            "content_html": "<p>Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are.</p>\n<p>First thing I'll be uploading is my entry to the <a href=\"https://itch.io/jam/nanotwimo-make-a-twine-game-in-november\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">NaNoTwiMo</a> jam. Here's a mockup screenshot to tide you over.</p>\n<p><img class=\"post__image--center\" src=\"https://nikolyst.com/media/posts/1/50x30_sides.png\" alt=\"\" width=\"800\" height=\"480\"></p>\n<p>Check back closer to December!</p>",
+            "image": "https://nikolyst.com/media/posts/1/50x30_sides.png",
             "author": {
                 "name": "Nikolyst"
             },

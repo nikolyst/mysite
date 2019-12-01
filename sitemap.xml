@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://nikolyst.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://nikolyst.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://nikolyst.github.io/</loc>
+<loc>https://nikolyst.com/</loc>
 </url>
 <url>
-<loc>https://nikolyst.github.io/new-creative-dumping-ground.html</loc>
+<loc>https://nikolyst.com/new-creative-dumping-ground.html</loc>
 <lastmod>2019-11-17T21:31:42-07:00</lastmod>
 <image:image>
-<image:loc>https://nikolyst.github.io/media\posts\1/50x30_sides.png</image:loc>
+<image:loc>https://nikolyst.com/media\posts\1/50x30_sides.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://nikolyst.github.io/media\posts\1/50x30_sides.png</image:loc>
+<image:loc>https://nikolyst.com/media\posts\1/50x30_sides.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://nikolyst.github.io/patreon-launch-announcement.html</loc>
+<loc>https://nikolyst.com/patreon-launch-announcement.html</loc>
 <lastmod>2019-12-01T00:26:52-07:00</lastmod>
 </url>
 </urlset>

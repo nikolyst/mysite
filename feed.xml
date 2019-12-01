@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Nikolyst</title>
-    <link href="https://nikolyst.github.io/feed.xml" rel="self" />
-    <link href="https://nikolyst.github.io" />
-    <updated>2019-12-01T00:27:26-07:00</updated>
+    <link href="https://nikolyst.com/feed.xml" rel="self" />
+    <link href="https://nikolyst.com" />
+    <updated>2019-12-01T00:30:42-07:00</updated>
     <author>
         <name>Nikolyst</name>
     </author>
-    <id>https://nikolyst.github.io</id>
+    <id>https://nikolyst.com</id>
 
     <entry>
         <title>Patreon launch announcement</title>
         <author>
             <name>Nikolyst</name>
         </author>
-        <link href="https://nikolyst.github.io/patreon-launch-announcement.html"/>
-        <id>https://nikolyst.github.io/patreon-launch-announcement.html</id>
+        <link href="https://nikolyst.com/patreon-launch-announcement.html"/>
+        <id>https://nikolyst.com/patreon-launch-announcement.html</id>
 
         <updated>2019-12-01T00:26:52-07:00</updated>
             <summary>
@@ -27,7 +27,7 @@
             <![CDATA[
                 <p>After pondering this for way too many months now, I finally decided I'm launching my Patreon on Sunday, December 15th. With the variety of things I do and the stress that I experience when I end up rushing something out that feels unfinished, Patreon seems like a breath of fresh air. Do I have specific monetary goals here? Only to slowly start making money from my creative processes. <strong>I absolutely LOVE my current day job and I currently have zero plans to leave it. </strong>That said, I'm currently living with my parents with no ability to pay actual rent and no emergency funds. I gotta change that. Pateron will hopefully help.</p>
 <p>What on earth am I going to share through Patreon? Anything! Everything! Nothing in particular! Whatever creative stuff I do is fair game: music, sounds, games, circuit bending, custom electronics, glitch art, physical art, etc. I haven't decided what all the tiers and rewards will look like but the lowest tier will be $1 per month. Every little bit will help!</p>
-<p>Keep an eye on my social media to get the link as soon as I go live. Whatever you like: <a href="https://nikolyst.github.io">this blog</a>, Facebook (personal profile only for now), <a href="https://twitter.com/nikolyst" target="_blank" rel="noopener noreferrer">Twitter</a>, or <a href="https://www.instagram.com/nikolystic/" target="_blank" rel="noopener noreferrer">Instagram</a>.</p>
+<p>Keep an eye on my social media to get the link as soon as I go live. Whatever you like: <a href="https://nikolyst.com">this blog</a>, Facebook (personal profile only for now), <a href="https://twitter.com/nikolyst" target="_blank" rel="noopener noreferrer">Twitter</a>, or <a href="https://www.instagram.com/nikolystic/" target="_blank" rel="noopener noreferrer">Instagram</a>.</p>
             ]]>
         </content>
     </entry>
@@ -36,22 +36,22 @@
         <author>
             <name>Nikolyst</name>
         </author>
-        <link href="https://nikolyst.github.io/new-creative-dumping-ground.html"/>
-        <id>https://nikolyst.github.io/new-creative-dumping-ground.html</id>
+        <link href="https://nikolyst.com/new-creative-dumping-ground.html"/>
+        <id>https://nikolyst.com/new-creative-dumping-ground.html</id>
 
         <updated>2019-11-17T21:31:42-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nikolyst.github.io/media/posts/1/50x30_sides.png" alt="" />
+                        <img src="https://nikolyst.com/media/posts/1/50x30_sides.png" alt="" />
                     Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are. First thing I'll be uploading is my entry to the NaNoTwiMo jam. Here's a mockup screenshot&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://nikolyst.github.io/media/posts/1/50x30_sides.png" alt="" />
+                    <img src="https://nikolyst.com/media/posts/1/50x30_sides.png" alt="" />
                 <p>Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are.</p>
 <p>First thing I'll be uploading is my entry to the <a href="https://itch.io/jam/nanotwimo-make-a-twine-game-in-november" target="_blank" rel="nofollow noopener noreferrer">NaNoTwiMo</a> jam. Here's a mockup screenshot to tide you over.</p>
-<p><img class="post__image--center" src="https://nikolyst.github.io/media/posts/1/50x30_sides.png" alt="" width="800" height="480"></p>
+<p><img class="post__image--center" src="https://nikolyst.com/media/posts/1/50x30_sides.png" alt="" width="800" height="480"></p>
 <p>Check back closer to December!</p>
             ]]>
         </content>
