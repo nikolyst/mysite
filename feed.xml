@@ -3,12 +3,50 @@
     <title>Nikolyst</title>
     <link href="https://nikolyst.com/feed.xml" rel="self" />
     <link href="https://nikolyst.com" />
-    <updated>2019-12-15T19:18:04-07:00</updated>
+    <updated>2019-12-29T18:58:25-07:00</updated>
     <author>
         <name>Nikolyst</name>
     </author>
     <id>https://nikolyst.com</id>
 
+    <entry>
+        <title>Licensing info</title>
+        <author>
+            <name>Nikolyst</name>
+        </author>
+        <link href="https://nikolyst.com/licensing-info.html"/>
+        <id>https://nikolyst.com/licensing-info.html</id>
+
+        <updated>2019-12-29T18:58:19-07:00</updated>
+            <summary>
+                <![CDATA[
+                    Everything I formally release to the public is available 100% free of charge. There are however minor stipulations about attribution regarding reusing / remixing / redistributing my projects. The short version: anything I release that's code and / or an executable is under BSL-1.0 &amp;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Everything</strong> I formally release to the public is available <span style="text-decoration: underline;">100% free of charge</span>. There are however minor stipulations about attribution regarding reusing / remixing / redistributing my projects. The short version: anything I release that's code and / or an executable is under <a href="https://opensource.org/licenses/BSL-1.0" target="_blank" rel="noopener noreferrer">BSL-1.0</a> &amp; everything else (including game / software media assets) is under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>. Both of these are very permissive licenses. Follow the links to get details on these licenses and feel free to contact me if you have questions on them or wish to establish an alternative licensing agreement. </p>
+<ul>
+<li>All music released after 2019: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>
+<ul>
+<li>Previous projects I possess the copyright for will be gradually rereleased under this license.</li>
+</ul>
+</li>
+<li>Abstract / glitch art: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>
+<ul>
+<li>Please save yourself the hassle and don't rip things from my Instagram. Why would you want to do that when I have things freely available in max quality on <a href="https://flickr.com/photos/nikolyst/" target="_blank" rel="noopener noreferrer">Flickr</a>? :D</li>
+</ul>
+</li>
+<li>Videos &amp; VJ loops: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a></li>
+<li>Code &amp; executables for my games &amp; software: <a href="https://opensource.org/licenses/BSL-1.0" target="_blank" rel="noopener noreferrer">BSL-1.0</a>
+<ul>
+<li>This is just for the code &amp; executables. All media bundled with my games &amp; software (music, sounds, icons, documentation, etc) fall under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>.</li>
+</ul>
+</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Patreon launch slightly delayed</title>
         <author>
