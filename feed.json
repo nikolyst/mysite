@@ -1,70 +1,27 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Nikolyst",
+    "title": "Nicholas A Day",
     "description": "",
-    "home_page_url": "https://nikolyst.com",
-    "feed_url": "https://nikolyst.com/feed.json",
+    "home_page_url": "https://nicholasaday.com",
+    "feed_url": "https://nicholasaday.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Nikolyst"
     },
     "items": [
         {
-            "id": "https://nikolyst.com/licensing-info.html",
-            "url": "https://nikolyst.com/licensing-info.html",
-            "title": "Licensing info",
-            "summary": "Everything I formally release to the public is available 100% free of charge. There are however minor stipulations about attribution regarding reusing / remixing / redistributing my projects. The short version: anything I release that's code and / or an executable is under BSL-1.0 &amp;&hellip;",
-            "content_html": "<p><strong>Everything</strong> I formally release to the public is available <span style=\"text-decoration: underline;\">100% free of charge</span>. There are however minor stipulations about attribution regarding reusing / remixing / redistributing my projects. The short version: anything I release that's code and / or an executable is under <a href=\"https://opensource.org/licenses/BSL-1.0\" target=\"_blank\" rel=\"noopener noreferrer\">BSL-1.0</a> &amp; everything else (including game / software media assets) is under <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a>. Both of these are very permissive licenses. Follow the links to get details on these licenses and feel free to contact me if you have questions on them or wish to establish an alternative licensing agreement. </p>\n<ul>\n<li>All music released after 2019: <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a>\n<ul>\n<li>Previous projects I possess the copyright for will be gradually rereleased under this license.</li>\n</ul>\n</li>\n<li>Abstract / glitch art: <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a>\n<ul>\n<li>Please save yourself the hassle and don't rip things from my Instagram. Why would you want to do that when I have things freely available in max quality on <a href=\"https://flickr.com/photos/nikolyst/\" target=\"_blank\" rel=\"noopener noreferrer\">Flickr</a>? :D</li>\n</ul>\n</li>\n<li>Videos &amp; VJ loops: <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a></li>\n<li>Code &amp; executables for my games &amp; software: <a href=\"https://opensource.org/licenses/BSL-1.0\" target=\"_blank\" rel=\"noopener noreferrer\">BSL-1.0</a>\n<ul>\n<li>This is just for the code &amp; executables. All media bundled with my games &amp; software (music, sounds, icons, documentation, etc) fall under <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a>.</li>\n</ul>\n</li>\n</ul>",
+            "id": "https://nicholasaday.com/contact.html",
+            "url": "https://nicholasaday.com/contact.html",
+            "title": "Contact",
+            "summary": "If you want to collaborate, hire me, or just say hi (hello!),&hellip;",
+            "content_html": "<p>If you want to collaborate, hire me, or just say hi (hello!), you've got a few communication options. <em>NOTE: My inbox is currently a mountain of newsletters and sale notifications so I only share my email with confirmed contacts. Start with one of these other options first if you want to email me.</em></p>\n<ul>\n<li>Twitter (@nikolyst)</li>\n<li>Discord (nikolyst#3193)</li>\n</ul>",
             "author": {
                 "name": "Nikolyst"
             },
             "tags": [
             ],
-            "date_published": "2019-12-29T18:57:31-07:00",
-            "date_modified": "2019-12-29T18:58:19-07:00"
-        },
-        {
-            "id": "https://nikolyst.com/patreon-launch-slightly-delayed.html",
-            "url": "https://nikolyst.com/patreon-launch-slightly-delayed.html",
-            "title": "Patreon launch slightly delayed",
-            "summary": "(EDIT: My Patreon is now live!) While I had originally planned to launch my Patreon today, it is not quite ready yet. I'm still working on the finer details of my reward tiers plus I have a lot of old projects to track down. One&hellip;",
-            "content_html": "<p><em>(EDIT: <a href=\"https://www.patreon.com/nikolyst\" target=\"_blank\" rel=\"noopener noreferrer\">My Patreon is now live</a>!)</em></p>\n<p>While I had originally planned to launch my Patreon today, it is not quite ready yet. I'm still working on the finer details of my reward tiers plus I have a lot of old projects to track down. <span style=\"text-decoration: line-through;\">One of the rewards I'll be offering on one of my tiers is access to <strong>every</strong> unreleased project I've <strong>ever</strong> worked on (as long as I still have the files). Most of my music projects are organized in one giant folder but I have other projects scattered throughout my various hard drives. I want to have a large number of these projects gathered up before I launch my Patreon.</span></p>\n<figure class=\"post__image post__image--center\" ><img src=\"https://nikolyst.com/media/posts/3/publii_musicfoldersize2019.png\" width=\"334\" height=\"187\">\n<figcaption >And there's more projects hiding elsewhere on my computer too!</figcaption>\n</figure>\n<p><span style=\"text-decoration: line-through;\">This will take a bit but it will help me find projects I want to revisit plus it will give all of my patrons plenty of things to listen to and play with on day one. If you become a patron, you'll get access to these projects under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>. More on this decision and my Patreon later! :D</span></p>\n<p><em>(EDIT: I've decided not to offer my unreleased projects because I only want to released finished things to the world. Sure, that could mean chopping up audio from a cancelled project and repackaging it as a sample pack but it will be a FINISHED sample pack. No worries though. Patrons still get exclusive access to sneak peeks of my upcoming projects.)</em></p>",
-            "author": {
-                "name": "Nikolyst"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-12-15T19:16:28-07:00",
-            "date_modified": "2019-12-29T20:11:21-07:00"
-        },
-        {
-            "id": "https://nikolyst.com/patreon-launch-announcement.html",
-            "url": "https://nikolyst.com/patreon-launch-announcement.html",
-            "title": "Patreon launch announcement",
-            "summary": "After pondering this for way too many months now, I finally decided I'm launching my Patreon on Sunday, December 15th. (EDIT: Took me a few more weeks but my Patreon is now live.) With the variety of things I do and the stress that I&hellip;",
-            "content_html": "<p>After pondering this for way too many months now, I finally decided I'm launching my Patreon <span style=\"text-decoration: line-through;\">on Sunday, December 15th</span>. <em>(EDIT: Took me a few more weeks but <a href=\"https://www.patreon.com/nikolyst\" target=\"_blank\" rel=\"noopener noreferrer\">my Patreon is now live</a>.)</em> With the variety of things I do and the stress that I experience when I end up rushing something out that feels unfinished, Patreon seems like a breath of fresh air. Do I have specific monetary goals here? Only to slowly start making money from my creative processes. <strong>I absolutely LOVE my current day job and I currently have zero plans to leave it. </strong>That said, I'm currently living with my parents with no ability to pay actual rent and no emergency funds. I gotta change that. Pateron will hopefully help.</p>\n<p>What on earth am I going to share through Patreon? Anything! Everything! Nothing in particular! Whatever creative stuff I do is fair game: music, sounds, games, circuit bending, custom electronics, glitch art, physical art, etc. I haven't decided what all the tiers and rewards will look like but the lowest tier will be $1 per month. Every little bit will help!</p>\n<p>Keep an eye on my social media to get the link as soon as I go live. <em>(EDIT: Click the link above!)</em> Whatever you like: <a href=\"https://nikolyst.com\">this blog</a>, Facebook (personal profile only for now), <a href=\"https://twitter.com/nikolyst\" target=\"_blank\" rel=\"noopener noreferrer\">Twitter</a>, or <a href=\"https://www.instagram.com/nikolystic/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a>.</p>",
-            "author": {
-                "name": "Nikolyst"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-12-01T00:26:52-07:00",
-            "date_modified": "2019-12-29T20:13:24-07:00"
-        },
-        {
-            "id": "https://nikolyst.com/new-creative-dumping-ground.html",
-            "url": "https://nikolyst.com/new-creative-dumping-ground.html",
-            "title": "New creative dumping ground",
-            "summary": "Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are. First thing I'll be uploading (EDIT: keep reading) is my entry to the NaNoTwiMo jam. Here's&hellip;",
-            "content_html": "<p>Hi peeps. As much as I love itch.io, I want to have a sort of backup place to dump all my creative things I make. So, here we are.</p>\n<p>First thing I'll be uploading <em>(EDIT: keep reading)</em> is my entry to the <a href=\"https://itch.io/jam/nanotwimo-make-a-twine-game-in-november\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">NaNoTwiMo</a> jam. Here's a mockup screenshot to tide you over.</p>\n<p><img class=\"post__image--center\" src=\"https://nikolyst.com/media/posts/1/50x30_sides.png\" alt=\"\" width=\"800\" height=\"480\"></p>\n<p><span style=\"text-decoration: line-through;\">Check back closer to December!</span> December 1st update: still working on this but didn't get anywhere near done in time for the jam. Such is how I operate: jumping around creative things wildly. I'll share more on this project in the future.</p>",
-            "image": "https://nikolyst.com/media/posts/1/50x30_sides.png",
-            "author": {
-                "name": "Nikolyst"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-11-17T18:58:23-07:00",
-            "date_modified": "2019-12-01T00:37:26-07:00"
+            "date_published": "2020-07-29T14:52:59-06:00",
+            "date_modified": "2020-07-29T14:57:35-06:00"
         }
     ]
 }
