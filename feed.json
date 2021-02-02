@@ -2,26 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Nicholas A Day",
     "description": "",
-    "home_page_url": "https://nicholasaday.com",
-    "feed_url": "https://nicholasaday.com/feed.json",
+    "home_page_url": "https://nikolyst.xyz",
+    "feed_url": "https://nikolyst.xyz/feed.json",
     "user_comment": "",
     "author": {
         "name": "Nikolyst"
     },
     "items": [
         {
-            "id": "https://nicholasaday.com/contact.html",
-            "url": "https://nicholasaday.com/contact.html",
+            "id": "https://nikolyst.xyz/contact.html",
+            "url": "https://nikolyst.xyz/contact.html",
             "title": "Contact",
             "summary": "If you want to collaborate, hire me, or just say hi (hello!),&hellip;",
-            "content_html": "<p>If you want to collaborate, hire me, or just say hi (hello!), you've got a few communication options. <em>NOTE: My inbox is currently a mountain of newsletters and sale notifications so I only share my email with confirmed contacts. Start with one of these other options first if you want to email me.</em></p>\n<ul>\n<li>Twitter (@nikolyst)</li>\n<li>Discord (nikolyst#3193)</li>\n</ul>",
+            "content_html": "<p>If you want to collaborate, hire me, or just say hi (hello!), you've got a few communication options.</p>\n<ul>\n<li>Twitter - <a href=\"https://twitter.com/nicholasday2612\" target=\"_blank\" rel=\"noopener noreferrer\">@nicholasday2612</a></li>\n<li>Email - <a href=\"mailto:nick@nicholasaday.com\" target=\"_blank\" rel=\"noopener noreferrer\">nick@nicholasaday.com</a></li>\n</ul>",
             "author": {
                 "name": "Nikolyst"
             },
             "tags": [
             ],
             "date_published": "2020-07-29T14:52:59-06:00",
-            "date_modified": "2020-07-29T14:57:35-06:00"
+            "date_modified": "2021-01-27T14:06:44-07:00"
         }
     ]
 }

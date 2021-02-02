@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Nicholas A Day</title>
-    <link href="https://nicholasaday.com/feed.xml" rel="self" />
-    <link href="https://nicholasaday.com" />
-    <updated>2020-07-29T14:57:35-06:00</updated>
+    <link href="https://nikolyst.xyz/feed.xml" rel="self" />
+    <link href="https://nikolyst.xyz" />
+    <updated>2021-01-27T14:06:44-07:00</updated>
     <author>
         <name>Nikolyst</name>
     </author>
-    <id>https://nicholasaday.com</id>
+    <id>https://nikolyst.xyz</id>
 
     <entry>
         <title>Contact</title>
         <author>
             <name>Nikolyst</name>
         </author>
-        <link href="https://nicholasaday.com/contact.html"/>
-        <id>https://nicholasaday.com/contact.html</id>
+        <link href="https://nikolyst.xyz/contact.html"/>
+        <id>https://nikolyst.xyz/contact.html</id>
 
-        <updated>2020-07-29T14:57:35-06:00</updated>
+        <updated>2021-01-27T14:06:44-07:00</updated>
             <summary>
                 <![CDATA[
                     If you want to collaborate, hire me, or just say hi (hello!),&hellip;
@@ -25,10 +25,10 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>If you want to collaborate, hire me, or just say hi (hello!), you've got a few communication options. <em>NOTE: My inbox is currently a mountain of newsletters and sale notifications so I only share my email with confirmed contacts. Start with one of these other options first if you want to email me.</em></p>
+                <p>If you want to collaborate, hire me, or just say hi (hello!), you've got a few communication options.</p>
 <ul>
-<li>Twitter (@nikolyst)</li>
-<li>Discord (nikolyst#3193)</li>
+<li>Twitter - <a href="https://twitter.com/nicholasday2612" target="_blank" rel="noopener noreferrer">@nicholasday2612</a></li>
+<li>Email - <a href="mailto:nick@nicholasaday.com" target="_blank" rel="noopener noreferrer">nick@nicholasaday.com</a></li>
 </ul>
             ]]>
         </content>

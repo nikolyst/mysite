@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://nicholasaday.com/sitemap.xml
+Sitemap: https://nikolyst.xyz/sitemap.xml

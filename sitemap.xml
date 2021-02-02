@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://nicholasaday.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://nikolyst.xyz/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://nicholasaday.com/</loc>
+<loc>https://nikolyst.xyz/</loc>
 </url>
 <url>
-<loc>https://nicholasaday.com/contact.html</loc>
-<lastmod>2020-07-29T14:57:35-06:00</lastmod>
+<loc>https://nikolyst.xyz/contact.html</loc>
+<lastmod>2021-01-27T14:06:44-07:00</lastmod>
 </url>
 <url>
-<loc>https://nicholasaday.com/licensing-info.html</loc>
+<loc>https://nikolyst.xyz/licensing-info.html</loc>
 <lastmod>2020-07-29T19:54:29-06:00</lastmod>
-</url>
-<url>
-<loc>https://nicholasaday.com/new-creative-dumping-ground.html</loc>
-<lastmod>2020-07-29T19:54:59-06:00</lastmod>
-<image:image>
-<image:loc>https://nicholasaday.com/media\posts\1/50x30_sides.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://nicholasaday.com/media\posts\1/50x30_sides.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://nicholasaday.com/patreon-launch-announcement.html</loc>
-<lastmod>2020-07-29T19:53:33-06:00</lastmod>
-</url>
-<url>
-<loc>https://nicholasaday.com/patreon-launch-slightly-delayed.html</loc>
-<lastmod>2020-07-29T19:54:12-06:00</lastmod>
-<image:image>
-<image:loc>https://nicholasaday.com/media\posts\3/publii_musicfoldersize2019.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
 </url>
 </urlset>
