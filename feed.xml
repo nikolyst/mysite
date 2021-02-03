@@ -1,23 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Nicholas A Day</title>
+    <title>Nikolyst</title>
     <link href="https://nikolyst.xyz/feed.xml" rel="self" />
     <link href="https://nikolyst.xyz" />
-    <updated>2021-01-27T14:06:44-07:00</updated>
+    <updated>2021-02-03T01:51:02-07:00</updated>
     <author>
         <name>Nikolyst</name>
     </author>
     <id>https://nikolyst.xyz</id>
 
     <entry>
+        <title>#002 - Corrupt Transmission EP</title>
+        <author>
+            <name>Nikolyst</name>
+        </author>
+        <link href="https://nikolyst.xyz/002/"/>
+        <id>https://nikolyst.xyz/002/</id>
+            <category term="Releases"/>
+            <category term="Music"/>
+
+        <updated>2021-02-03T01:51:02-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikolyst.xyz/media/posts/7/cover.png" alt="" />
+                    Number: 002Type(s): musicRelease date: July 15th, 2020Where to get it: BandcampCorrupt Transmission&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikolyst.xyz/media/posts/7/cover.png" alt="" />
+                <ul>
+<li>Number: 002</li>
+<li>Type(s): music</li>
+<li>Release date: July 15th, 2020</li>
+<li>Where to get it: <a href="https://nikolyst.bandcamp.com/album/corrupt-transmission-ep" target="_blank" rel="noopener noreferrer">Bandcamp</a></li>
+</ul>
+<div class="post__iframe"><iframe loading="lazy" style="border: 0; width: 350px; height: 588px;" src="https://bandcamp.com/EmbeddedPlayer/album=1725179384/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless=""><a href="https://nikolyst.bandcamp.com/album/corrupt-transmission-ep">Corrupt Transmission EP by Nikolyst</a></iframe></div>
+<p>Here's a small sampling of my absolute mountain of unreleased tracks. Some of these I made clear back in 2007! 😮</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>#001 - glitchVids</title>
+        <author>
+            <name>Nikolyst</name>
+        </author>
+        <link href="https://nikolyst.xyz/001/"/>
+        <id>https://nikolyst.xyz/001/</id>
+            <category term="Visuals"/>
+            <category term="Releases"/>
+            <category term="Freebies"/>
+
+        <updated>2021-02-03T01:50:30-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikolyst.xyz/media/posts/6/001_featured-2.png" alt="" />
+                    Number: 001Type(s): visuals, assets, freebiesRelease date: May 15th, 2019Where to get it:&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikolyst.xyz/media/posts/6/001_featured-2.png" alt="" />
+                <ul>
+<li>Number: 001</li>
+<li>Type(s): visuals, assets, freebies</li>
+<li>Release date: May 15th, 2019</li>
+<li>Where to get it: <a href="https://nikolyst.itch.io/glitchvids" target="_blank" rel="noopener noreferrer">Itch</a></li>
+</ul>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://nikolyst.xyz/media/posts/6/gallery/001_01.png" data-size="500x500"><img loading="lazy" src="https://nikolyst.xyz/media/posts/6/gallery/001_01-thumbnail.png" alt="" width="500" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://nikolyst.xyz/media/posts/6/gallery/001_02.png" data-size="500x500"><img loading="lazy" src="https://nikolyst.xyz/media/posts/6/gallery/001_02-thumbnail.png" alt="" width="500" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://nikolyst.xyz/media/posts/6/gallery/001_03.png" data-size="500x500"><img loading="lazy" src="https://nikolyst.xyz/media/posts/6/gallery/001_03-thumbnail.png" alt="" width="500" height="500"></a></figure>
+</div></div>
+<p>A collection of 20 abstract, glitchy, and seamless video loops for you to use in whatever multimedia project you have in mind. Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">CC BY 4.0</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Contact</title>
         <author>
             <name>Nikolyst</name>
         </author>
-        <link href="https://nikolyst.xyz/contact.html"/>
-        <id>https://nikolyst.xyz/contact.html</id>
+        <link href="https://nikolyst.xyz/contact/"/>
+        <id>https://nikolyst.xyz/contact/</id>
 
-        <updated>2021-01-27T14:06:44-07:00</updated>
+        <updated>2021-02-03T01:32:39-07:00</updated>
             <summary>
                 <![CDATA[
                     If you want to collaborate, hire me, or just say hi (hello!),&hellip;
@@ -27,8 +94,10 @@
             <![CDATA[
                 <p>If you want to collaborate, hire me, or just say hi (hello!), you've got a few communication options.</p>
 <ul>
-<li>Twitter - <a href="https://twitter.com/nicholasday2612" target="_blank" rel="noopener noreferrer">@nicholasday2612</a></li>
-<li>Email - <a href="mailto:nick@nicholasaday.com" target="_blank" rel="noopener noreferrer">nick@nicholasaday.com</a></li>
+<li>Twitter - <a href="https://twitter.com/nikolyst" target="_blank" rel="noopener noreferrer">@nikolyst</a></li>
+<li>Mastodon - <a href="https://mastodon.art/@nikolyst" target="_blank" rel="noopener noreferrer">@nikolyst@mastodon.art</a></li>
+<li>Email - <a href="mailto:nikolyst@protonmail.com" target="_blank" rel="noopener noreferrer">nikolyst@protonmail.com</a></li>
+<li>Discord - nikolyst#3193</li>
 </ul>
             ]]>
         </content>
