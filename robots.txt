@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://nikolyst.xyz/sitemap.xml
+Sitemap: https://nickzonemusic.com/sitemap.xml

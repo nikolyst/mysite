@@ -1,67 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Nikolyst</title>
-    <link href="https://nikolyst.xyz/feed.xml" rel="self" />
-    <link href="https://nikolyst.xyz" />
-    <updated>2021-02-03T04:44:28-07:00</updated>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Nick Zone</title>
+    <link href="https://nickzonemusic.com/feed.xml" rel="self" />
+    <link href="https://nickzonemusic.com" />
+    <updated>2023-04-15T19:41:21-06:00</updated>
     <author>
-        <name>Nikolyst</name>
+        <name>Nick</name>
     </author>
-    <id>https://nikolyst.xyz</id>
+    <id>https://nickzonemusic.com</id>
 
     <entry>
-        <title>&quot;Okay, let&#x27;s do this one last time, yeah?&quot;</title>
+        <title>Mid-May 2023 update</title>
         <author>
-            <name>Nikolyst</name>
+            <name>Nick</name>
         </author>
-        <link href="https://nikolyst.xyz/okay-lets-do-this-one-last-time-yeah/"/>
-        <id>https://nikolyst.xyz/okay-lets-do-this-one-last-time-yeah/</id>
-            <category term="Blog"/>
+        <link href="https://nickzonemusic.com/mid-may-2023-update/"/>
+        <id>https://nickzonemusic.com/mid-may-2023-update/</id>
 
-        <updated>2021-02-03T04:44:28-07:00</updated>
+        <updated>2023-04-15T19:41:21-06:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://nikolyst.xyz/media/posts/8/onelasttime_mm_smaller.png" alt="" />
-                    "For real this time. This is it." - Miles Morales, Into the&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>#002 - Corrupt Transmission EP</title>
-        <author>
-            <name>Nikolyst</name>
-        </author>
-        <link href="https://nikolyst.xyz/002/"/>
-        <id>https://nikolyst.xyz/002/</id>
-            <category term="Releases"/>
-            <category term="Music"/>
-
-        <updated>2021-02-03T01:51:02-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nikolyst.xyz/media/posts/7/cover.png" alt="" />
-                    Number: 002Type(s): musicRelease date: July 15th, 2020Where to get it: BandcampCorrupt Transmission&hellip;
-                ]]>
-            </summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>#001 - glitchVids</title>
-        <author>
-            <name>Nikolyst</name>
-        </author>
-        <link href="https://nikolyst.xyz/001/"/>
-        <id>https://nikolyst.xyz/001/</id>
-            <category term="Visuals"/>
-            <category term="Releases"/>
-            <category term="Freebies"/>
-
-        <updated>2021-02-03T01:50:30-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nikolyst.xyz/media/posts/6/001_featured-2.png" alt="" />
-                    Number: 001Type(s): visuals, assets, freebiesRelease date: May 15th, 2019Where to get it:&hellip;
+                    via GIPHY Lots of stuff today. Let's cut to the chase. Nikolyst&hellip;
                 ]]>
             </summary>
         <content></content>
@@ -69,15 +28,15 @@
     <entry>
         <title>Contact</title>
         <author>
-            <name>Nikolyst</name>
+            <name>Nick</name>
         </author>
-        <link href="https://nikolyst.xyz/contact/"/>
-        <id>https://nikolyst.xyz/contact/</id>
+        <link href="https://nickzonemusic.com/contact/"/>
+        <id>https://nickzonemusic.com/contact/</id>
 
-        <updated>2021-02-03T01:32:39-07:00</updated>
+        <updated>2023-04-15T18:26:33-06:00</updated>
             <summary>
                 <![CDATA[
-                    If you want to collaborate, hire me, or just say hi (hello!),&hellip;
+                    If you wanna say hi (hello!), you can contact me on Discord&hellip;
                 ]]>
             </summary>
         <content></content>

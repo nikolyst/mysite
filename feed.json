@@ -1,74 +1,40 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Nikolyst",
+    "title": "Nick Zone",
     "description": "",
-    "home_page_url": "https://nikolyst.xyz",
-    "feed_url": "https://nikolyst.xyz/feed.json",
+    "home_page_url": "https://nickzonemusic.com",
+    "feed_url": "https://nickzonemusic.com/feed.json",
     "user_comment": "",
+    "icon": "https://nickzonemusic.com/media/website/nickzone_logo_rect2.png",
     "author": {
-        "name": "Nikolyst"
+        "name": "Nick"
     },
     "items": [
         {
-            "id": "https://nikolyst.xyz/okay-lets-do-this-one-last-time-yeah/",
-            "url": "https://nikolyst.xyz/okay-lets-do-this-one-last-time-yeah/",
-            "title": "&quot;Okay, let&#x27;s do this one last time, yeah?&quot;",
-            "summary": "\"For real this time. This is it.\" - Miles Morales, Into the&hellip;",
-            "image": "https://nikolyst.xyz/media/posts/8/onelasttime_mm_smaller.png",
+            "id": "https://nickzonemusic.com/mid-may-2023-update/",
+            "url": "https://nickzonemusic.com/mid-may-2023-update/",
+            "title": "Mid-May 2023 update",
+            "summary": "via GIPHY Lots of stuff today. Let's cut to the chase. Nikolyst&hellip;",
             "author": {
-                "name": "Nikolyst"
+                "name": "Nick"
             },
             "tags": [
-                   "Blog"
             ],
-            "date_published": "2021-02-03T02:41:23-07:00",
-            "date_modified": "2021-02-03T04:44:28-07:00"
+            "date_published": "2023-04-15T19:28:24-06:00",
+            "date_modified": "2023-04-15T19:41:21-06:00"
         },
         {
-            "id": "https://nikolyst.xyz/002/",
-            "url": "https://nikolyst.xyz/002/",
-            "title": "#002 - Corrupt Transmission EP",
-            "summary": "Number: 002Type(s): musicRelease date: July 15th, 2020Where to get it: BandcampCorrupt Transmission&hellip;",
-            "image": "https://nikolyst.xyz/media/posts/7/cover.png",
-            "author": {
-                "name": "Nikolyst"
-            },
-            "tags": [
-                   "Releases",
-                   "Music"
-            ],
-            "date_published": "2021-02-03T01:25:01-07:00",
-            "date_modified": "2021-02-03T01:51:02-07:00"
-        },
-        {
-            "id": "https://nikolyst.xyz/001/",
-            "url": "https://nikolyst.xyz/001/",
-            "title": "#001 - glitchVids",
-            "summary": "Number: 001Type(s): visuals, assets, freebiesRelease date: May 15th, 2019Where to get it:&hellip;",
-            "image": "https://nikolyst.xyz/media/posts/6/001_featured-2.png",
-            "author": {
-                "name": "Nikolyst"
-            },
-            "tags": [
-                   "Visuals",
-                   "Releases",
-                   "Freebies"
-            ],
-            "date_published": "2021-02-03T01:13:53-07:00",
-            "date_modified": "2021-02-03T01:50:30-07:00"
-        },
-        {
-            "id": "https://nikolyst.xyz/contact/",
-            "url": "https://nikolyst.xyz/contact/",
+            "id": "https://nickzonemusic.com/contact/",
+            "url": "https://nickzonemusic.com/contact/",
             "title": "Contact",
-            "summary": "If you want to collaborate, hire me, or just say hi (hello!),&hellip;",
+            "summary": "If you wanna say hi (hello!), you can contact me on Discord&hellip;",
             "author": {
-                "name": "Nikolyst"
+                "name": "Nick"
             },
             "tags": [
             ],
             "date_published": "2020-07-29T14:52:59-06:00",
-            "date_modified": "2021-02-03T01:32:39-07:00"
+            "date_modified": "2023-04-15T18:26:33-06:00"
         }
     ]
 }
